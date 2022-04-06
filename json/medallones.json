@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1 ,
+        "nombre": "Medallones de Lenteja" ,
+        "precio": 400 ,
+        "img": "medallon-lenteja.jpg"
+    },
+
+    {
+        "id": 2 ,
+        "nombre": "Medalones de Garbanzo x5 uni." ,
+        "precio": 400 ,
+        "img": "medallon-garbanzos.jpg"
+    },
+
+    {
+        "id": 3 ,
+        "nombre": "Medallones de Soja x5 uni." ,
+        "precio": 400 ,
+        "img": "medallon-soja.jpg"
+    },
+
+    {
+        "id": 4 ,
+        "nombre": "Medallones de Calabaza x5 uni." ,
+        "precio": 400 ,
+        "img": "medallon-calabaza.jpg"
+    },
+
+    {
+        "id": 5 ,
+        "nombre": "Medallones de Porotos Negros x5 uni." ,
+        "precio": 400 ,
+        "img": "medallones-porneg.jpg"
+    },
+
+    {
+        "id": 6 ,
+        "nombre": "Medallones de Remolacha x5 uni." ,
+        "precio": 400 ,
+        "img": "medallon-remolacha.jpg"
+    }
+]
